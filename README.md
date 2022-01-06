@@ -1,4 +1,4 @@
 # WeatherApp
 This is a weather app
 
-the navigation bar and footer of the website are dynamic and can be found as appart of my portfolio website v1.1 repository, this is strictly a show of the weather app itself.
+This is not published to be cloned and reproduced not that you can't, but I have taken some parts out that and some dynamic elements will not be present. if you wish to test a working version of this online app, please visit my website https://www.hugochehadepitre.com
